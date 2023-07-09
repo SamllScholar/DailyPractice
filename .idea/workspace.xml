@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d912ca2c-a0e6-41a0-88dc-07386b5758c5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Unnamed" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../jdk/jdk1.8/src.zip!/java/util/concurrent/ConcurrentHashMap.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\work\soft\apache-maven-3.5.4\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../work/soft/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\work\soft\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="11" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="2PjtlApo8POf0fXBt8A8CFGOgNV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ToolWindowstudio.ShowToolbar": "false",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/work/porject/hundsun",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.smallscholar.代码随想录.doubleNum" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.com.smallscholar.代码随想录.stackAndQueue.Test (1)">
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smallscholar.代码随想录.list.Test" />
+      <module name="DailyPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.smallscholar.代码随想录.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smallscholar.代码随想录.list.Test" />
+      <module name="DailyPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.smallscholar.代码随想录.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smallscholar.代码随想录.hash.ThreeSum" />
+      <module name="DailyPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.smallscholar.代码随想录.hash.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.smallscholar.代码随想录.stackAndQueue.Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smallscholar.代码随想录.stackAndQueue.Test" />
+      <module name="DailyPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.smallscholar.代码随想录.stackAndQueue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.smallscholar.代码随想录.stackAndQueue.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smallscholar.代码随想录.stackAndQueue.Test" />
+      <module name="DailyPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.smallscholar.代码随想录.stackAndQueue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.smallscholar.代码随想录.stackAndQueue.Test (1)" />
+        <item itemvalue="Application.com.smallscholar.代码随想录.stackAndQueue.Test" />
+        <item itemvalue="Application.ThreeSum" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Test (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d912ca2c-a0e6-41a0-88dc-07386b5758c5" name="Changes" comment="" />
+      <created>1683982470464</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683982470464</updated>
+      <workItem from="1683982471452" duration="732000" />
+      <workItem from="1683991396250" duration="2893000" />
+      <workItem from="1684024487775" duration="43524000" />
+      <workItem from="1684115005898" duration="23665000" />
+      <workItem from="1684200417983" duration="10776000" />
+      <workItem from="1684387601532" duration="1371000" />
+      <workItem from="1684394347696" duration="6172000" />
+      <workItem from="1684548625452" duration="11000" />
+      <workItem from="1684560996958" duration="5406000" />
+      <workItem from="1685801929313" duration="680000" />
+      <workItem from="1685803940107" duration="103000" />
+      <workItem from="1685870862928" duration="163000" />
+      <workItem from="1687614728480" duration="1469000" />
+      <workItem from="1687616342514" duration="116000" />
+      <workItem from="1687662423445" duration="10813000" />
+      <workItem from="1687678532978" duration="13252000" />
+      <workItem from="1687740156329" duration="954000" />
+      <workItem from="1687754628602" duration="5053000" />
+      <workItem from="1687762562515" duration="252000" />
+      <workItem from="1687762839898" duration="272000" />
+      <workItem from="1687763520805" duration="632000" />
+      <workItem from="1687765605621" duration="374000" />
+      <workItem from="1688043859026" duration="8633000" />
+      <workItem from="1688085689416" duration="23481000" />
+      <workItem from="1688114866993" duration="3785000" />
+      <workItem from="1688130731803" duration="10035000" />
+      <workItem from="1688195117946" duration="7084000" />
+      <workItem from="1688282668959" duration="8588000" />
+      <workItem from="1688344747520" duration="23156000" />
+      <workItem from="1688431942155" duration="975000" />
+      <workItem from="1688434682251" duration="2274000" />
+      <workItem from="1688441087091" duration="784000" />
+      <workItem from="1688450778573" duration="404000" />
+      <workItem from="1688456599455" duration="462000" />
+      <workItem from="1688520174140" duration="2706000" />
+      <workItem from="1688534176612" duration="571000" />
+      <workItem from="1688622786188" duration="1346000" />
+      <workItem from="1688696893169" duration="11959000" />
+      <workItem from="1688720209791" duration="110000" />
+      <workItem from="1688798698445" duration="23149000" />
+      <workItem from="1688873652552" duration="596000" />
+      <workItem from="1688877044130" duration="26868000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/smallscholar/normalPractice/may/PermuteUnique.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/smallscholar/normalPractice/may/Permutation.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/smallscholar/normalPractice/may/ReverseKGroup.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/smallscholar/normalPractice/may/AddInList.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/smallscholar/normalPractice/may/TwoSum.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/smallscholar/normalPractice/may/PreorderTraversal.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/smallscholar/normalPractice/may/PrintTreeNode.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/smallscholar/normalPractice/may/BinarySearch.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/smallscholar/programmingBasics/CalPoints.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/smallscholar/programmingBasics/CalPoints.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/smallscholar/programmingBasics/SpiralOrder.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/smallscholar/programmingBasics/SetZeroes.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/smallscholar/interviewClassic/RemoveElement.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/smallscholar/interviewClassic/MaxArea.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/smallscholar/代码随想录/list/MyLinkedList.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/smallscholar/代码随想录/hash/ThreeSum.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/smallscholar/normalPractice/may/StackImplementQueue.java</url>
+          <line>19</line>
+          <properties class="com.smallscholar.normalPractice.may.StackImplementQueue" method="pop">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/smallscholar/代码随想录/stackAndQueue/MyStack.java</url>
+          <line>41</line>
+          <properties class="com.smallscholar.代码随想录.stackAndQueue.MyStack" method="top">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.smallscholar.normalPractice.may.TreeNode" memberName="right" />
+        <PinnedItemInfo parentTag="com.smallscholar.normalPractice.may.TreeNode" memberName="left" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DailyPractice$CanMakeArithmeticProgression.ic" NAME="CanMakeArithmeticProgression Coverage Results" MODIFIED="1688098269484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.smallscholar.programmingBasics.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DailyPractice$ThreeSum.ic" NAME="ThreeSum Coverage Results" MODIFIED="1688821508958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.smallscholar.代码随想录.hash.*</FILTER>
+    </SUITE>
+  </component>
+</project>
