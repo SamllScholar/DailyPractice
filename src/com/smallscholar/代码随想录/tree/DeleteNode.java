@@ -5,7 +5,6 @@ package com.smallscholar.代码随想录.tree;
  * @version 1.0
  * @date 2023/7/9 21:20
  * @describe 450. 删除二叉搜索树中的节点
- * test
  */
 public class DeleteNode {
 
