@@ -13,6 +13,8 @@ public class ConvertBST {
     public TreeNode convertBST(TreeNode root) {
         if (root == null) {
             return null;
+
+
         }
         convertBST(root.right);
         sum += root.val;
