@@ -1,4 +1,4 @@
-package com.smallscholar.bi.day_8_12;
+package com.smallscholar.bi.mt.day_8_12;
 
 import java.util.ArrayList;
 import java.util.HashSet;
